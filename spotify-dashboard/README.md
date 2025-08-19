@@ -1,7 +1,13 @@
 # 🎵 Spotify Music Trends Dashboard – Power BI
 
 An interactive Power BI dashboard analyzing Spotify’s most streamed tracks between **2017 and 2023**.  
-This project showcases skills in **data visualization, DAX, Power Query**, and **dashboard design**.
+This project showcases skills in **Power BI, data visualization, DAX, Power Query, HTML, Python**, and **dashboard design**.
+
+---
+
+## 📊 Dashboard Preview
+
+The dashboard previews are available under **/images** and full intractive dashboard can be accessed using the .pbix file.
 
 ---
 
